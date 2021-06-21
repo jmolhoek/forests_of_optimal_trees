@@ -12,8 +12,8 @@ import java.io.IOException;
 import java.util.*;
 
 public class Main {
-    private static final String path_to_datasets = "C:\\Users\\jordm\\Documents\\PROJECTS\\rp-group-29-common\\datasets";
-    private static final String path_to_results = "C:\\Users\\jordm\\Documents\\PROJECTS\\rp-group-29-common\\optimal_forests\\raw_data";
+    public static final String path_to_datasets = "src/main/resources/datasets";
+    private static final String path_to_results = "";
     private static final int nRuns = 50;
 
     public static void main(String[] args) throws IOException, InterruptedException, NotBinarisedException, Infeasible {
@@ -32,7 +32,7 @@ public class Main {
 
 //        printTables(datasetNames);
 
-//        showPlot("tic-tac-toe", 10, 2);
+//        showPlot(datasetNames[0], 10, 2);
     }
 
     /**

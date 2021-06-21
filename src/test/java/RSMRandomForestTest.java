@@ -11,11 +11,10 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
 public class RSMRandomForestTest {
-    private static final String path_to_datasets = "C:\\Users\\jordm\\Documents\\PROJECTS\\rp-group-29-common\\datasets";
     private DataSet data;
 
     private void SetUp() throws FileNotFoundException, NotBinarisedException {
-        data = DataLoader.load(path_to_datasets + "/tic-tac-toe_bin.txt", "matr");
+        data = DataLoader.load(Main.path_to_datasets + "/tic-tac-toe_bin.txt", "matr");
     }
 
     @Test
