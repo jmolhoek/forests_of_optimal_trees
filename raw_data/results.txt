@@ -1,0 +1,49 @@
+
+=============================SPLIT================
+hepatitis:
+d=4, 	t=31, 	res=0.18, 	took 512 seconds
+d=4, 	t=101, 	res=0.16, 	took 1762 seconds
+=============================SPLIT================
+lymph:
+d=4, 	t=31, 	res=0.18, 	took 485 seconds
+d=4, 	t=101, 	res=0.16, 	took 1726 seconds
+=============================SPLIT================
+primary-tumor:
+d=4, 	t=31, 	res=0.18, 	took 36 seconds
+d=4, 	t=101, 	res=0.17, 	took 115 seconds
+=============================SPLIT================
+soybean:
+d=4, 	t=31, 	res=0.05, 	took 239 seconds
+d=4, 	t=101, 	res=0.05, 	took 851 seconds
+=============================SPLIT================
+tic-tac-toe:
+d=4, 	t=31, 	res=0.09, 	took 40 seconds
+d=4, 	t=101, 	res=0.08, 	took 128 seconds
+=============================SPLIT================
+vote:
+d=4, 	t=31, 	res=0.04, 	took 174 seconds
+d=4, 	t=101, 	res=0.04, 	took 606 seconds
+==========================OOB===================
+hepatitis:
+d=4, 	t=31, 	res=0.18, 	took 608 seconds
+d=4, 	t=101, 	res=0.18, 	took 2106 seconds
+==========================OOB===================
+lymph:
+d=4, 	t=31, 	res=0.17, 	took 581 seconds
+d=4, 	t=101, 	res=0.17, 	took 2036 seconds
+==========================OOB===================
+primary-tumor:
+d=4, 	t=31, 	res=0.18, 	took 56 seconds
+d=4, 	t=101, 	res=0.18, 	took 171 seconds
+==========================OOB===================
+soybean:
+d=4, 	t=31, 	res=0.04, 	took 364 seconds
+d=4, 	t=101, 	res=0.04, 	took 1262 seconds
+==========================OOB===================
+tic-tac-toe:
+d=4, 	t=31, 	res=0.11, 	took 66 seconds
+d=4, 	t=101, 	res=0.1, 	took 212 seconds
+==========================OOB===================
+vote:
+d=4, 	t=31, 	res=0.05, 	took 244 seconds
+d=4, 	t=101, 	res=0.05, 	took 851 seconds

@@ -1,0 +1,324 @@
+==========================LC BAGGING==================
+anneal:
+d=2, 	t=3, 	res=0.18, 	took 4 seconds
+d=2, 	t=11, 	res=0.18, 	took 10 seconds
+d=2, 	t=31, 	res=0.18, 	took 44 seconds
+d=3, 	t=3, 	res=0.16, 	took 986 seconds
+d=3, 	t=11, 	res=0.16, 	took 4943 seconds
+==========================LC BAGGING==================
+hepatitis:
+d=2, 	t=3, 	res=0.17, 	took 1 seconds
+d=2, 	t=11, 	res=0.17, 	took 2 seconds
+d=2, 	t=31, 	res=0.18, 	took 10 seconds
+Timeout
+==========================LC BAGGING==================
+hepatitis:
+d=2, 	t=3, 	res=0.18, 	took 1 seconds
+d=2, 	t=11, 	res=0.16, 	took 2 seconds
+d=2, 	t=31, 	res=0.17, 	took 10 seconds
+Timeout
+==========================LC BAGGING==================
+hepatitis:
+d=2, 	t=3, 	res=0.18, 	took 1 seconds
+d=2, 	t=11, 	res=0.16, 	took 2 seconds
+d=2, 	t=31, 	res=0.17, 	took 8 seconds
+ &0.18 &0.16 &0.17
+ 1 2 8
+==========================LC BAGGING==================
+hypothyroid:
+d=2, 	t=3, 	res=0.02, 	took 10 seconds
+d=2, 	t=11, 	res=0.02, 	took 37 seconds
+d=2, 	t=31, 	res=0.02, 	took 139 seconds
+ &0.02 &0.02 &0.02
+ 10 37 139
+==========================LC BAGGING==================
+kr-vs-kp:
+d=2, 	t=3, 	res=0.13, 	took 8 seconds
+d=2, 	t=11, 	res=0.13, 	took 28 seconds
+d=2, 	t=31, 	res=0.13, 	took 78 seconds
+ &0.13 &0.13 &0.13
+ 8 28 78
+==========================LC BAGGING==================
+lymph:
+d=2, 	t=3, 	res=0.22, 	took 0 seconds
+d=2, 	t=11, 	res=0.19, 	took 2 seconds
+d=2, 	t=31, 	res=0.18, 	took 6 seconds
+ &0.22 &0.19 &0.18
+ 0 2 6
+==========================LC BAGGING==================
+primary-tumor:
+d=2, 	t=3, 	res=0.2, 	took 0 seconds
+d=2, 	t=11, 	res=0.19, 	took 2 seconds
+d=2, 	t=31, 	res=0.19, 	took 6 seconds
+ &0.2 &0.19 &0.19
+ 0 2 6
+==========================LC BAGGING==================
+soybean:
+d=2, 	t=3, 	res=0.1, 	took 2 seconds
+d=2, 	t=11, 	res=0.1, 	took 7 seconds
+d=2, 	t=31, 	res=0.11, 	took 13 seconds
+ &0.1 &0.1 &0.11
+ 2 7 13
+==========================LC BAGGING==================
+tic-tac-toe:
+d=2, 	t=3, 	res=0.3, 	took 1 seconds
+d=2, 	t=11, 	res=0.29, 	took 6 seconds
+d=2, 	t=31, 	res=0.29, 	took 17 seconds
+ &0.3 &0.29 &0.29
+ 1 6 17
+==========================LC BAGGING==================
+vote:
+d=2, 	t=3, 	res=0.05, 	took 1 seconds
+d=2, 	t=11, 	res=0.05, 	took 3 seconds
+d=2, 	t=31, 	res=0.04, 	took 11 seconds
+ &0.05 &0.05 &0.04
+ 1 3 11
+==========================LC BAGGING==================
+yeast:
+d=2, 	t=3, 	res=0.31, 	took 4 seconds
+d=2, 	t=11, 	res=0.3, 	took 21 seconds
+d=2, 	t=31, 	res=0.3, 	took 71 seconds
+ &0.31 &0.3 &0.3
+ 4 21 71
+==========================LC RSM==================
+hepatitis:
+d=2, 	t=3, 	res=0.18, 	took 0 seconds
+d=2, 	t=11, 	res=0.18, 	took 0 seconds
+d=2, 	t=31, 	res=0.18, 	took 1 seconds
+ &0.18 &0.18 &0.18
+ 0 0 1
+==========================LC RSM==================
+hypothyroid:
+d=2, 	t=3, 	res=0.02, 	took 2 seconds
+d=2, 	t=11, 	res=0.02, 	took 9 seconds
+d=2, 	t=31, 	res=0.02, 	took 55 seconds
+ &0.02 &0.02 &0.02
+ 2 9 55
+==========================LC RSM==================
+kr-vs-kp:
+d=2, 	t=3, 	res=0.15, 	took 1 seconds
+d=2, 	t=11, 	res=0.13, 	took 4 seconds
+d=2, 	t=31, 	res=0.13, 	took 20 seconds
+ &0.15 &0.13 &0.13
+ 1 4 20
+==========================LC RSM==================
+lymph:
+d=2, 	t=3, 	res=0.21, 	took 0 seconds
+d=2, 	t=11, 	res=0.21, 	took 0 seconds
+d=2, 	t=31, 	res=0.2, 	took 0 seconds
+ &0.21 &0.21 &0.2
+ 0 0 0
+==========================LC RSM==================
+primary-tumor:
+d=2, 	t=3, 	res=0.21, 	took 0 seconds
+d=2, 	t=11, 	res=0.19, 	took 0 seconds
+d=2, 	t=31, 	res=0.2, 	took 1 seconds
+ &0.21 &0.19 &0.2
+ 0 0 1
+==========================LC RSM==================
+soybean:
+d=2, 	t=3, 	res=0.12, 	took 0 seconds
+d=2, 	t=11, 	res=0.12, 	took 0 seconds
+d=2, 	t=31, 	res=0.13, 	took 1 seconds
+ &0.12 &0.12 &0.13
+ 0 0 1
+==========================LC RSM==================
+tic-tac-toe:
+d=2, 	t=3, 	res=0.31, 	took 0 seconds
+d=2, 	t=11, 	res=0.3, 	took 0 seconds
+d=2, 	t=31, 	res=0.3, 	took 3 seconds
+ &0.31 &0.3 &0.3
+ 0 0 3
+==========================LC RSM==================
+vote:
+d=2, 	t=3, 	res=0.05, 	took 0 seconds
+d=2, 	t=11, 	res=0.05, 	took 0 seconds
+d=2, 	t=31, 	res=0.04, 	took 3 seconds
+ &0.05 &0.05 &0.04
+ 0 0 3
+==========================LC RSM==================
+yeast:
+d=2, 	t=3, 	res=0.31, 	took 0 seconds
+d=2, 	t=11, 	res=0.31, 	took 2 seconds
+d=2, 	t=31, 	res=0.3, 	took 12 seconds
+ &0.31 &0.31 &0.3
+ 0 2 12
+==========================LC BAGGING==================
+anneal:
+d=2, 	t=3, 	res=0.18, 	took 4 seconds
+d=2, 	t=11, 	res=0.18, 	took 9 seconds
+d=2, 	t=31, 	res=0.18, 	took 39 seconds
+ &0.18 &0.18 &0.18
+ 4 9 39
+==========================LC RSM==================
+anneal:
+d=2, 	t=3, 	res=0.18, 	took 0 seconds
+d=2, 	t=11, 	res=0.18, 	took 1 seconds
+d=2, 	t=31, 	res=0.18, 	took 7 seconds
+ &0.18 &0.18 &0.18
+ 0 1 7
+==========================LC RSM==================
+anneal:
+d=2, 	t=3, 	res=0.18, 	took 1 seconds
+ &0.18
+ 1
+==========================LC RSM==================
+hepatitis:
+d=2, 	t=3, 	res=0.18, 	took 0 seconds
+ &0.18
+ 0
+==========================LC RSM==================
+hypothyroid:
+d=2, 	t=3, 	res=0.02, 	took 2 seconds
+ &0.02
+ 2
+==========================LC RSM==================
+kr-vs-kp:
+d=2, 	t=3, 	res=0.13, 	took 1 seconds
+ &0.13
+ 1
+==========================LC RSM==================
+lymph:
+d=2, 	t=3, 	res=0.2, 	took 0 seconds
+ &0.2
+ 0
+==========================LC RSM==================
+primary-tumor:
+d=2, 	t=3, 	res=0.2, 	took 0 seconds
+ &0.2
+ 0
+==========================LC RSM==================
+soybean:
+d=2, 	t=3, 	res=0.12, 	took 0 seconds
+ &0.12
+ 0
+==========================LC RSM==================
+tic-tac-toe:
+d=2, 	t=3, 	res=0.31, 	took 0 seconds
+ &0.31
+ 0
+==========================LC RSM==================
+vote:
+d=2, 	t=3, 	res=0.05, 	took 0 seconds
+ &0.05
+ 0
+==========================LC RSM==================
+yeast:
+d=2, 	t=3, 	res=0.31, 	took 1 seconds
+ &0.31
+ 1
+==========================LC BAGGING==================
+anneal:
+d=2, 	t=3, 	res=0.18, 	took 2 seconds
+ &0.18
+ 2
+==========================LC BAGGING==================
+hepatitis:
+d=2, 	t=3, 	res=0.19, 	took 0 seconds
+ &0.19
+ 0
+==========================LC BAGGING==================
+hypothyroid:
+d=2, 	t=3, 	res=0.02, 	took 10 seconds
+ &0.02
+ 10
+==========================LC RSM==================
+anneal:
+d=3, 	t=3, 	res=0.16, 	took 44 seconds
+ &0.16
+ 44
+==========================LC RSM==================
+hepatitis:
+d=3, 	t=3, 	res=0.21, 	took 8 seconds
+ &0.21
+ 8
+==========================LC RSM==================
+hypothyroid:
+d=3, 	t=3, 	res=0.02, 	took 3849 seconds
+ &0.02
+ 3849
+==========================LC RSM==================
+kr-vs-kp:
+d=3, 	t=3, 	res=0.09, 	took 27 seconds
+ &0.09
+ 27
+==========================LC RSM==================
+lymph:
+d=3, 	t=3, 	res=0.2, 	took 4 seconds
+ &0.2
+ 4
+==========================LC RSM==================
+primary-tumor:
+d=3, 	t=3, 	res=0.19, 	took 0 seconds
+ &0.19
+ 0
+==========================LC RSM==================
+soybean:
+d=3, 	t=3, 	res=0.09, 	took 2 seconds
+ &0.09
+ 2
+==========================LC RSM==================
+tic-tac-toe:
+d=3, 	t=3, 	res=0.25, 	took 0 seconds
+ &0.25
+ 0
+==========================LC RSM==================
+vote:
+d=3, 	t=3, 	res=0.06, 	took 6 seconds
+ &0.06
+ 6
+==========================LC RSM==================
+yeast:
+d=3, 	t=3, 	res=0.3, 	took 17 seconds
+ &0.3
+ 17
+==========================LC BAGGING==================
+anneal:
+d=3, 	t=3, 	res=0.16, 	took 750 seconds
+ &0.16
+ 750
+==========================LC BAGGING==================
+hepatitis:
+Timeout
+ &t
+ t
+==========================LC BAGGING==================
+hypothyroid:
+Timeout
+ &t
+ t
+==========================LC BAGGING==================
+kr-vs-kp:
+d=3, 	t=3, 	res=0.06, 	took 217 seconds
+ &0.06
+ 217
+==========================LC BAGGING==================
+lymph:
+d=3, 	t=3, 	res=0.21, 	took 88 seconds
+ &0.21
+ 88
+==========================LC BAGGING==================
+primary-tumor:
+d=3, 	t=3, 	res=0.19, 	took 4 seconds
+ &0.19
+ 4
+==========================LC BAGGING==================
+soybean:
+d=3, 	t=3, 	res=0.06, 	took 23 seconds
+ &0.06
+ 23
+==========================LC BAGGING==================
+tic-tac-toe:
+d=3, 	t=3, 	res=0.22, 	took 4 seconds
+ &0.22
+ 4
+==========================LC BAGGING==================
+vote:
+d=3, 	t=3, 	res=0.06, 	took 187 seconds
+ &0.06
+ 187
+==========================LC BAGGING==================
+yeast:
+d=3, 	t=3, 	res=0.3, 	took 124 seconds
+ &0.3
+ 124

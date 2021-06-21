@@ -1,0 +1,282 @@
+==========================RANDOMROOT===================
+hepatitis:
+d=2, 	t=11, 	res=0.17, 	took 0 seconds
+d=2, 	t=31, 	res=0.17, 	took 1 seconds
+d=2, 	t=101, 	res=0.17, 	took 3 seconds
+d=3, 	t=11, 	res=0.18, 	took 0 seconds
+d=3, 	t=31, 	res=0.18, 	took 0 seconds
+d=3, 	t=101, 	res=0.19, 	took 3 seconds
+d=4, 	t=11, 	res=0.2, 	took 29 seconds
+Timeout
+==========================RANDOMROOT===================
+hepatitis:
+d=2, 	t=11, 	res=0.16, 	took 0 seconds
+d=2, 	t=31, 	res=0.16, 	took 1 seconds
+d=2, 	t=101, 	res=0.17, 	took 3 seconds
+d=3, 	t=11, 	res=0.18, 	took 0 seconds
+d=3, 	t=31, 	res=0.19, 	took 1 seconds
+d=3, 	t=101, 	res=0.18, 	took 3 seconds
+d=4, 	t=11, 	res=0.2, 	took 28 seconds
+d=4, 	t=31, 	res=0.19, 	took 80 seconds
+d=4, 	t=101, 	res=0.2, 	took 263 seconds
+ &0.16 &0.16 &0.17 &0.18 &0.19 &0.18 &0.2 &0.19 &0.2
+ 0 1 3 0 1 3 28 80 263
+==========================RANDOMROOT===================
+kr-vs-kp:
+d=2, 	t=11, 	res=0.28, 	took 6 seconds
+d=2, 	t=31, 	res=0.26, 	took 15 seconds
+d=2, 	t=101, 	res=0.26, 	took 48 seconds
+d=3, 	t=11, 	res=0.13, 	took 6 seconds
+d=3, 	t=31, 	res=0.13, 	took 15 seconds
+d=3, 	t=101, 	res=0.13, 	took 48 seconds
+==========================RANDOMROOT===================
+kr-vs-kp:
+d=2, 	t=11, 	res=0.27, 	took 7 seconds
+d=2, 	t=31, 	res=0.27, 	took 16 seconds
+d=2, 	t=101, 	res=0.26, 	took 51 seconds
+d=3, 	t=11, 	res=0.13, 	took 6 seconds
+d=3, 	t=31, 	res=0.13, 	took 16 seconds
+d=3, 	t=101, 	res=0.13, 	took 52 seconds
+==========================RANDOMROOT===================
+kr-vs-kp:
+d=2, 	t=11, 	res=0.28, 	took 10 seconds
+d=2, 	t=31, 	res=0.27, 	took 26 seconds
+d=2, 	t=101, 	res=0.27, 	took 81 seconds
+d=3, 	t=11, 	res=0.13, 	took 9 seconds
+d=3, 	t=31, 	res=0.13, 	took 25 seconds
+d=3, 	t=101, 	res=0.13, 	took 82 seconds
+==========================RANDOMROOT===================
+kr-vs-kp:
+d=2, 	t=11, 	res=0.26, 	took 6 seconds
+d=2, 	t=31, 	res=0.27, 	took 14 seconds
+d=2, 	t=101, 	res=0.29, 	took 45 seconds
+d=3, 	t=11, 	res=0.13, 	took 5 seconds
+d=3, 	t=31, 	res=0.13, 	took 14 seconds
+d=3, 	t=101, 	res=0.13, 	took 45 seconds
+d=4, 	t=11, 	res=0.06, 	took 338 seconds
+d=4, 	t=31, 	res=0.06, 	took 956 seconds
+d=4, 	t=101, 	res=0.06, 	took 3079 seconds
+ &0.26 &0.27 &0.29 &0.13 &0.13 &0.13 &0.06 &0.06 &0.06
+ 6 14 45 5 14 45 338 956 3079
+==========================RANDOMROOT===================
+lymph:
+d=2, 	t=11, 	res=0.21, 	took 0 seconds
+d=2, 	t=31, 	res=0.22, 	took 0 seconds
+d=2, 	t=101, 	res=0.22, 	took 2 seconds
+d=3, 	t=11, 	res=0.21, 	took 0 seconds
+d=3, 	t=31, 	res=0.2, 	took 0 seconds
+d=3, 	t=101, 	res=0.2, 	took 2 seconds
+d=4, 	t=11, 	res=0.19, 	took 23 seconds
+d=4, 	t=31, 	res=0.18, 	took 66 seconds
+d=4, 	t=101, 	res=0.19, 	took 218 seconds
+ &0.21 &0.22 &0.22 &0.21 &0.2 &0.2 &0.19 &0.18 &0.19
+ 0 0 2 0 0 2 23 66 218
+==========================RANDOMROOT===================
+primary-tumor:
+d=2, 	t=11, 	res=0.22, 	took 0 seconds
+d=2, 	t=31, 	res=0.21, 	took 0 seconds
+d=2, 	t=101, 	res=0.21, 	took 1 seconds
+d=3, 	t=11, 	res=0.19, 	took 0 seconds
+d=3, 	t=31, 	res=0.19, 	took 0 seconds
+d=3, 	t=101, 	res=0.19, 	took 1 seconds
+d=4, 	t=11, 	res=0.18, 	took 5 seconds
+d=4, 	t=31, 	res=0.18, 	took 14 seconds
+d=4, 	t=101, 	res=0.18, 	took 45 seconds
+ &0.22 &0.21 &0.21 &0.19 &0.19 &0.19 &0.18 &0.18 &0.18
+ 0 0 1 0 0 1 5 14 45
+==========================RANDOMROOT===================
+soybean:
+d=2, 	t=11, 	res=0.15, 	took 0 seconds
+d=2, 	t=31, 	res=0.15, 	took 1 seconds
+d=2, 	t=101, 	res=0.15, 	took 4 seconds
+d=3, 	t=11, 	res=0.09, 	took 0 seconds
+d=3, 	t=31, 	res=0.09, 	took 1 seconds
+d=3, 	t=101, 	res=0.09, 	took 4 seconds
+d=4, 	t=11, 	res=0.05, 	took 23 seconds
+d=4, 	t=31, 	res=0.06, 	took 66 seconds
+d=4, 	t=101, 	res=0.06, 	took 210 seconds
+ &0.15 &0.15 &0.15 &0.09 &0.09 &0.09 &0.05 &0.06 &0.06
+ 0 1 4 0 1 4 23 66 210
+==========================RANDOMROOT===================
+tic-tac-toe:
+d=2, 	t=11, 	res=0.3, 	took 0 seconds
+d=2, 	t=31, 	res=0.3, 	took 0 seconds
+d=2, 	t=101, 	res=0.3, 	took 2 seconds
+d=3, 	t=11, 	res=0.24, 	took 0 seconds
+d=3, 	t=31, 	res=0.23, 	took 0 seconds
+d=3, 	t=101, 	res=0.23, 	took 2 seconds
+d=4, 	t=11, 	res=0.15, 	took 8 seconds
+d=4, 	t=31, 	res=0.13, 	took 22 seconds
+d=4, 	t=101, 	res=0.13, 	took 71 seconds
+ &0.3 &0.3 &0.3 &0.24 &0.23 &0.23 &0.15 &0.13 &0.13
+ 0 0 2 0 0 2 8 22 71
+==========================RANDOMROOT===================
+vote:
+d=2, 	t=11, 	res=0.05, 	took 0 seconds
+d=2, 	t=31, 	res=0.04, 	took 0 seconds
+d=2, 	t=101, 	res=0.05, 	took 2 seconds
+d=3, 	t=11, 	res=0.05, 	took 0 seconds
+d=3, 	t=31, 	res=0.05, 	took 0 seconds
+d=3, 	t=101, 	res=0.05, 	took 2 seconds
+d=4, 	t=11, 	res=0.05, 	took 17 seconds
+d=4, 	t=31, 	res=0.05, 	took 46 seconds
+d=4, 	t=101, 	res=0.05, 	took 151 seconds
+ &0.05 &0.04 &0.05 &0.05 &0.05 &0.05 &0.05 &0.05 &0.05
+ 0 0 2 0 0 2 17 46 151
+==========================RANDOMROOT===================
+yeast:
+d=2, 	t=11, 	res=0.3, 	took 3 seconds
+d=2, 	t=31, 	res=0.3, 	took 9 seconds
+d=2, 	t=101, 	res=0.3, 	took 30 seconds
+d=3, 	t=11, 	res=0.3, 	took 3 seconds
+d=3, 	t=31, 	res=0.3, 	took 9 seconds
+d=3, 	t=101, 	res=0.3, 	took 31 seconds
+d=4, 	t=11, 	res=0.29, 	took 290 seconds
+d=4, 	t=31, 	res=0.29, 	took 813 seconds
+d=4, 	t=101, 	res=0.29, 	took 2628 seconds
+ &0.3 &0.3 &0.3 &0.3 &0.3 &0.3 &0.29 &0.29 &0.29
+ 3 9 30 3 9 31 290 813 2628
+==========================RANDOMROOT===================
+hepatitis:
+d=2, 	t=11, 	res=0.17, 	took 0 seconds
+d=2, 	t=31, 	res=0.17, 	took 0 seconds
+d=2, 	t=101, 	res=0.17, 	took 2 seconds
+d=3, 	t=11, 	res=0.18, 	took 0 seconds
+d=3, 	t=31, 	res=0.18, 	took 1 seconds
+d=3, 	t=101, 	res=0.18, 	took 2 seconds
+d=4, 	t=11, 	res=0.19, 	took 27 seconds
+d=4, 	t=31, 	res=0.2, 	took 76 seconds
+d=4, 	t=101, 	res=0.19, 	took 169 seconds
+ &0.17 &0.17 &0.17 &0.18 &0.18 &0.18 &0.19 &0.2 &0.19
+ 0 0 2 0 1 2 27 76 169
+==========================RANDOMROOT===================
+kr-vs-kp:
+d=2, 	t=11, 	res=0.29, 	took 6 seconds
+d=2, 	t=31, 	res=0.28, 	took 15 seconds
+d=2, 	t=101, 	res=0.27, 	took 34 seconds
+d=3, 	t=11, 	res=0.13, 	took 6 seconds
+d=3, 	t=31, 	res=0.13, 	took 15 seconds
+d=3, 	t=101, 	res=0.13, 	took 34 seconds
+d=4, 	t=11, 	res=0.06, 	took 344 seconds
+d=4, 	t=31, 	res=0.06, 	took 976 seconds
+d=4, 	t=101, 	res=0.06, 	took 2239 seconds
+ &0.29 &0.28 &0.27 &0.13 &0.13 &0.13 &0.06 &0.06 &0.06
+ 6 15 34 6 15 34 344 976 2239
+==========================RANDOMROOT===================
+lymph:
+d=2, 	t=11, 	res=0.21, 	took 0 seconds
+d=2, 	t=31, 	res=0.22, 	took 0 seconds
+d=2, 	t=101, 	res=0.21, 	took 1 seconds
+d=3, 	t=11, 	res=0.2, 	took 0 seconds
+d=3, 	t=31, 	res=0.2, 	took 0 seconds
+d=3, 	t=101, 	res=0.2, 	took 1 seconds
+d=4, 	t=11, 	res=0.19, 	took 24 seconds
+d=4, 	t=31, 	res=0.18, 	took 67 seconds
+d=4, 	t=101, 	res=0.18, 	took 143 seconds
+ &0.21 &0.22 &0.21 &0.2 &0.2 &0.2 &0.19 &0.18 &0.18
+ 0 0 1 0 0 1 24 67 143
+==========================RANDOMROOT===================
+primary-tumor:
+d=2, 	t=11, 	res=0.22, 	took 0 seconds
+d=2, 	t=31, 	res=0.22, 	took 0 seconds
+d=2, 	t=101, 	res=0.22, 	took 0 seconds
+d=3, 	t=11, 	res=0.19, 	took 0 seconds
+d=3, 	t=31, 	res=0.18, 	took 0 seconds
+d=3, 	t=101, 	res=0.18, 	took 0 seconds
+d=4, 	t=11, 	res=0.18, 	took 4 seconds
+d=4, 	t=31, 	res=0.18, 	took 13 seconds
+d=4, 	t=101, 	res=0.18, 	took 13 seconds
+ &0.22 &0.22 &0.22 &0.19 &0.18 &0.18 &0.18 &0.18 &0.18
+ 0 0 0 0 0 0 4 13 13
+==========================RANDOMROOT===================
+soybean:
+d=2, 	t=11, 	res=0.15, 	took 0 seconds
+d=2, 	t=31, 	res=0.15, 	took 1 seconds
+d=2, 	t=101, 	res=0.15, 	took 2 seconds
+d=3, 	t=11, 	res=0.09, 	took 0 seconds
+d=3, 	t=31, 	res=0.09, 	took 1 seconds
+d=3, 	t=101, 	res=0.09, 	took 2 seconds
+d=4, 	t=11, 	res=0.05, 	took 22 seconds
+d=4, 	t=31, 	res=0.06, 	took 64 seconds
+d=4, 	t=101, 	res=0.05, 	took 102 seconds
+ &0.15 &0.15 &0.15 &0.09 &0.09 &0.09 &0.05 &0.06 &0.05
+ 0 1 2 0 1 2 22 64 102
+==========================RANDOMROOT===================
+tic-tac-toe:
+d=2, 	t=11, 	res=0.3, 	took 0 seconds
+d=2, 	t=31, 	res=0.3, 	took 0 seconds
+d=2, 	t=101, 	res=0.3, 	took 0 seconds
+d=3, 	t=11, 	res=0.24, 	took 0 seconds
+d=3, 	t=31, 	res=0.23, 	took 0 seconds
+d=3, 	t=101, 	res=0.23, 	took 0 seconds
+d=4, 	t=11, 	res=0.14, 	took 8 seconds
+d=4, 	t=31, 	res=0.13, 	took 19 seconds
+d=4, 	t=101, 	res=0.13, 	took 19 seconds
+ &0.3 &0.3 &0.3 &0.24 &0.23 &0.23 &0.14 &0.13 &0.13
+ 0 0 0 0 0 0 8 19 19
+==========================RANDOMROOT===================
+vote:
+d=2, 	t=11, 	res=0.05, 	took 0 seconds
+d=2, 	t=31, 	res=0.05, 	took 0 seconds
+d=2, 	t=101, 	res=0.05, 	took 1 seconds
+d=3, 	t=11, 	res=0.05, 	took 0 seconds
+d=3, 	t=31, 	res=0.05, 	took 0 seconds
+d=3, 	t=101, 	res=0.05, 	took 1 seconds
+d=4, 	t=11, 	res=0.05, 	took 16 seconds
+d=4, 	t=31, 	res=0.05, 	took 47 seconds
+d=4, 	t=101, 	res=0.05, 	took 73 seconds
+ &0.05 &0.05 &0.05 &0.05 &0.05 &0.05 &0.05 &0.05 &0.05
+ 0 0 1 0 0 1 16 47 73
+==========================RANDOMROOT===================
+yeast:
+d=2, 	t=11, 	res=0.3, 	took 3 seconds
+d=2, 	t=31, 	res=0.3, 	took 10 seconds
+d=2, 	t=101, 	res=0.3, 	took 28 seconds
+d=3, 	t=11, 	res=0.3, 	took 3 seconds
+d=3, 	t=31, 	res=0.3, 	took 10 seconds
+d=3, 	t=101, 	res=0.3, 	took 28 seconds
+d=4, 	t=11, 	res=0.29, 	took 298 seconds
+d=4, 	t=31, 	res=0.29, 	took 838 seconds
+d=4, 	t=101, 	res=0.29, 	took 2424 seconds
+ &0.3 &0.3 &0.3 &0.3 &0.3 &0.3 &0.29 &0.29 &0.29
+ 3 10 28 3 10 28 298 838 2424
+==========================RANDOMROOT===================
+hepatitis:
+d=5, 	t=11, 	res=0.19, 	took 1140 seconds
+ &0.19
+ 1140
+==========================RANDOMROOT===================
+kr-vs-kp:
+Timeout
+ &t
+ t
+==========================RANDOMROOT===================
+lymph:
+d=5, 	t=11, 	res=0.19, 	took 949 seconds
+ &0.19
+ 949
+==========================RANDOMROOT===================
+primary-tumor:
+d=5, 	t=11, 	res=0.19, 	took 81 seconds
+ &0.19
+ 81
+==========================RANDOMROOT===================
+soybean:
+d=5, 	t=11, 	res=0.05, 	took 559 seconds
+ &0.05
+ 559
+==========================RANDOMROOT===================
+tic-tac-toe:
+d=5, 	t=11, 	res=0.07, 	took 106 seconds
+ &0.07
+ 106
+==========================RANDOMROOT===================
+vote:
+d=5, 	t=11, 	res=0.06, 	took 458 seconds
+ &0.06
+ 458
+==========================RANDOMROOT===================
+yeast:
+Timeout
+ &t
+ t

@@ -1,0 +1,243 @@
+
+
+Hard Restricted
+
+===================Hard==========================
+hepatitis:
+Timeout
+Timeout
+Timeout
+Timeout
+ &t &t &t &t
+ t t t t
+
+
+Hard Restricted
+
+===================Hard==========================
+hepatitis:
+Timeout
+Timeout
+Timeout
+Timeout
+ &t &t &t &t
+ t t t t
+
+
+Hard Restricted
+
+
+
+Hard Restricted
+
+===================Hard==========================
+hepatitis:
+d=4, 	t=31, 	res=0.22, 	took 295 seconds
+Timeout
+ &0.22 &t
+ 295 t
+
+
+Hard Restricted
+
+===================Hard==========================
+hepatitis:
+d=4, 	t=31, 	res=0.22, 	took 303 seconds
+d=4, 	t=101, 	res=0.22, 	took 455 seconds
+ &0.22 &0.22
+ 303 455
+===================Hard==========================
+kr-vs-kp:
+d=4, 	t=31, 	res=0.26, 	took 3670 seconds
+Timeout
+ &0.26 &t
+ 3670 t
+===================Hard==========================
+lymph:
+d=4, 	t=31, 	res=0.27, 	took 241 seconds
+d=4, 	t=101, 	res=0.29, 	took 394 seconds
+ &0.27 &0.29
+ 241 394
+===================Hard==========================
+primary-tumor:
+d=4, 	t=31, 	res=0.2, 	took 14 seconds
+d=4, 	t=101, 	res=0.2, 	took 26 seconds
+ &0.2 &0.2
+ 14 26
+===================Hard==========================
+soybean:
+d=4, 	t=31, 	res=0.09, 	took 175 seconds
+d=4, 	t=101, 	res=0.09, 	took 369 seconds
+ &0.09 &0.09
+ 175 369
+===================Hard==========================
+tic-tac-toe:
+d=4, 	t=31, 	res=0.34, 	took 17 seconds
+d=4, 	t=101, 	res=0.34, 	took 30 seconds
+ &0.34 &0.34
+ 17 30
+===================Hard==========================
+vote:
+d=4, 	t=31, 	res=0.15, 	took 93 seconds
+d=4, 	t=101, 	res=0.15, 	took 164 seconds
+ &0.15 &0.15
+ 93 164
+===================Hard==========================
+yeast:
+d=4, 	t=31, 	res=0.31, 	took 3988 seconds
+
+
+Prob Restricted
+
+===================Prob==========================
+hepatitis:
+d=4, 	t=31, 	res=0.21, 	took 210 seconds
+d=4, 	t=101, 	res=0.2, 	took 681 seconds
+ &0.21 &0.2
+ 210 681
+
+
+Prob Restricted
+
+===================Prob==========================
+kr-vs-kp:
+d=4, 	t=31, 	res=0.04, 	took 3392 seconds
+
+
+Prob Restricted
+
+===================Prob==========================
+lymph:
+d=4, 	t=31, 	res=0.17, 	took 189 seconds
+d=4, 	t=101, 	res=0.16, 	took 621 seconds
+ &0.17 &0.16
+ 189 621
+===================Prob==========================
+primary-tumor:
+d=4, 	t=31, 	res=0.18, 	took 22 seconds
+d=4, 	t=101, 	res=0.18, 	took 74 seconds
+ &0.18 &0.18
+ 22 74
+===================Prob==========================
+soybean:
+d=4, 	t=31, 	res=0.05, 	took 151 seconds
+d=4, 	t=101, 	res=0.05, 	took 498 seconds
+ &0.05 &0.05
+ 151 498
+===================Prob==========================
+tic-tac-toe:
+d=4, 	t=31, 	res=0.13, 	took 35 seconds
+d=4, 	t=101, 	res=0.13, 	took 113 seconds
+ &0.13 &0.13
+ 35 113
+===================Prob==========================
+vote:
+d=4, 	t=31, 	res=0.04, 	took 96 seconds
+d=4, 	t=101, 	res=0.04, 	took 315 seconds
+ &0.04 &0.04
+ 96 315
+===================Prob==========================
+yeast:
+d=4, 	t=31, 	res=0.29, 	took 3418 seconds
+
+
+Hard Restricted
+
+===================Hard==========================
+lymph:
+d=5, 	t=11, 	res=0.27, 	took 4424 seconds
+ &0.27
+ 4424
+===================Hard==========================
+primary-tumor:
+d=5, 	t=11, 	res=0.22, 	took 93 seconds
+ &0.22
+ 93
+
+
+Prob Restricted
+
+===================Prob==========================
+lymph:
+d=5, 	t=11, 	res=0.18, 	took 983 seconds
+ &0.18
+ 983
+===================Prob==========================
+primary-tumor:
+d=5, 	t=11, 	res=0.19, 	took 56 seconds
+ &0.19
+ 56
+===================Prob==========================
+soybean:
+d=5, 	t=11, 	res=0.05, 	took 465 seconds
+ &0.05
+ 465
+===================Prob==========================
+tic-tac-toe:
+d=5, 	t=11, 	res=0.1, 	took 63 seconds
+ &0.1
+ 63
+===================Prob==========================
+vote:
+d=5, 	t=11, 	res=0.05, 	took 356 seconds
+ &0.05
+ 356
+
+
+Prob Restricted
+
+===================Prob==========================
+hepatitis:
+d=5, 	t=11, 	res=0.2, 	took 1182 seconds
+ &0.2
+ 1182
+===================Prob==========================
+kr-vs-kp:
+Timeout
+ &t
+ t
+===================Prob==========================
+yeast:
+Timeout
+ &t
+ t
+
+
+Prob Restricted
+
+===================Prob==========================
+hepatitis:
+d=5, 	t=31, 	res=0.19, 	took 3044 seconds
+Timeout
+ &0.19 &t
+ 3044 t
+===================Prob==========================
+lymph:
+d=5, 	t=31, 	res=0.16, 	took 2544 seconds
+Timeout
+ &0.16 &t
+ 2544 t
+===================Prob==========================
+primary-tumor:
+d=5, 	t=31, 	res=0.19, 	took 136 seconds
+d=5, 	t=101, 	res=0.18, 	took 445 seconds
+ &0.19 &0.18
+ 136 445
+===================Prob==========================
+soybean:
+d=5, 	t=31, 	res=0.05, 	took 1301 seconds
+d=5, 	t=101, 	res=0.05, 	took 4236 seconds
+ &0.05 &0.05
+ 1301 4236
+===================Prob==========================
+tic-tac-toe:
+d=5, 	t=31, 	res=0.07, 	took 171 seconds
+d=5, 	t=101, 	res=0.06, 	took 560 seconds
+ &0.07 &0.06
+ 171 560
+===================Prob==========================
+vote:
+d=5, 	t=31, 	res=0.05, 	took 917 seconds
+d=5, 	t=101, 	res=0.05, 	took 2986 seconds
+ &0.05 &0.05
+ 917 2986

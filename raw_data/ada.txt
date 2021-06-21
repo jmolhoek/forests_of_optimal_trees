@@ -1,0 +1,150 @@
+
+
+ADA
+
+======================ADA=======================
+hepatitis:
+d=1, 	t=11, 	res=0.17, 	took 0 seconds
+d=1, 	t=31, 	res=0.17, 	took 0 seconds
+d=1, 	t=101, 	res=0.18, 	took 2 seconds
+d=2, 	t=11, 	res=0.19, 	took 0 seconds
+d=2, 	t=31, 	res=0.19, 	took 0 seconds
+d=2, 	t=101, 	res=0.18, 	took 2 seconds
+d=3, 	t=11, 	res=0.2, 	took 23 seconds
+d=3, 	t=31, 	res=0.21, 	took 66 seconds
+d=3, 	t=101, 	res=0.2, 	took 216 seconds
+ &0.17 &0.17 &0.18 &0.19 &0.19 &0.18 &0.2 &0.21 &0.2
+ 0 0 2 0 0 2 23 66 216
+======================ADA=======================
+kr-vs-kp:
+d=1, 	t=11, 	res=0.06, 	took 6 seconds
+d=1, 	t=31, 	res=0.05, 	took 15 seconds
+d=1, 	t=101, 	res=0.04, 	took 47 seconds
+d=2, 	t=11, 	res=0.04, 	took 6 seconds
+d=2, 	t=31, 	res=0.03, 	took 15 seconds
+d=2, 	t=101, 	res=0.01, 	took 48 seconds
+d=3, 	t=11, 	res=0.02, 	took 371 seconds
+d=3, 	t=31, 	res=0.01, 	took 1041 seconds
+d=3, 	t=101, 	res=0.01, 	took 3387 seconds
+ &0.06 &0.05 &0.04 &0.04 &0.03 &0.01 &0.02 &0.01 &0.01
+ 6 15 47 6 15 48 371 1041 3387
+======================ADA=======================
+lymph:
+d=1, 	t=11, 	res=0.18, 	took 0 seconds
+d=1, 	t=31, 	res=0.18, 	took 0 seconds
+d=1, 	t=101, 	res=0.17, 	took 2 seconds
+d=2, 	t=11, 	res=0.19, 	took 0 seconds
+d=2, 	t=31, 	res=0.17, 	took 0 seconds
+d=2, 	t=101, 	res=0.17, 	took 2 seconds
+d=3, 	t=11, 	res=0.18, 	took 22 seconds
+d=3, 	t=31, 	res=0.17, 	took 63 seconds
+d=3, 	t=101, 	res=0.17, 	took 200 seconds
+ &0.18 &0.18 &0.17 &0.19 &0.17 &0.17 &0.18 &0.17 &0.17
+ 0 0 2 0 0 2 22 63 200
+======================ADA=======================
+primary-tumor:
+d=1, 	t=11, 	res=0.18, 	took 0 seconds
+d=1, 	t=31, 	res=0.17, 	took 0 seconds
+d=1, 	t=101, 	res=0.18, 	took 1 seconds
+d=2, 	t=11, 	res=0.19, 	took 0 seconds
+d=2, 	t=31, 	res=0.19, 	took 0 seconds
+d=2, 	t=101, 	res=0.21, 	took 1 seconds
+d=3, 	t=11, 	res=0.2, 	took 4 seconds
+d=3, 	t=31, 	res=0.21, 	took 14 seconds
+d=3, 	t=101, 	res=0.21, 	took 44 seconds
+ &0.18 &0.17 &0.18 &0.19 &0.19 &0.21 &0.2 &0.21 &0.21
+ 0 0 1 0 0 1 4 14 44
+======================ADA=======================
+soybean:
+d=1, 	t=11, 	res=0.08, 	took 0 seconds
+d=1, 	t=31, 	res=0.07, 	took 1 seconds
+d=1, 	t=101, 	res=0.06, 	took 4 seconds
+d=2, 	t=11, 	res=0.05, 	took 0 seconds
+d=2, 	t=31, 	res=0.05, 	took 1 seconds
+d=2, 	t=101, 	res=0.05, 	took 4 seconds
+d=3, 	t=11, 	res=0.05, 	took 24 seconds
+d=3, 	t=31, 	res=0.05, 	took 66 seconds
+d=3, 	t=101, 	res=0.05, 	took 216 seconds
+ &0.08 &0.07 &0.06 &0.05 &0.05 &0.05 &0.05 &0.05 &0.05
+ 0 1 4 0 1 4 24 66 216
+======================ADA=======================
+tic-tac-toe:
+d=1, 	t=11, 	res=0.26, 	took 0 seconds
+d=1, 	t=31, 	res=0.22, 	took 0 seconds
+d=1, 	t=101, 	res=0.11, 	took 2 seconds
+d=2, 	t=11, 	res=0.23, 	took 0 seconds
+d=2, 	t=31, 	res=0.15, 	took 0 seconds
+d=2, 	t=101, 	res=0.1, 	took 2 seconds
+d=3, 	t=11, 	res=0.05, 	took 8 seconds
+d=3, 	t=31, 	res=0.01, 	took 22 seconds
+d=3, 	t=101, 	res=0.0, 	took 71 seconds
+ &0.26 &0.22 &0.11 &0.23 &0.15 &0.1 &0.05 &0.01 &0.0
+ 0 0 2 0 0 2 8 22 71
+======================ADA=======================
+vote:
+d=1, 	t=11, 	res=0.04, 	took 0 seconds
+d=1, 	t=31, 	res=0.04, 	took 0 seconds
+d=1, 	t=101, 	res=0.04, 	took 2 seconds
+d=2, 	t=11, 	res=0.05, 	took 0 seconds
+d=2, 	t=31, 	res=0.05, 	took 0 seconds
+d=2, 	t=101, 	res=0.05, 	took 2 seconds
+d=3, 	t=11, 	res=0.05, 	took 14 seconds
+d=3, 	t=31, 	res=0.05, 	took 42 seconds
+d=3, 	t=101, 	res=0.05, 	took 135 seconds
+ &0.04 &0.04 &0.04 &0.05 &0.05 &0.05 &0.05 &0.05 &0.05
+ 0 0 2 0 0 2 14 42 135
+======================ADA=======================
+yeast:
+d=1, 	t=11, 	res=0.29, 	took 3 seconds
+d=1, 	t=31, 	res=0.28, 	took 10 seconds
+d=1, 	t=101, 	res=0.28, 	took 31 seconds
+d=2, 	t=11, 	res=0.28, 	took 3 seconds
+d=2, 	t=31, 	res=0.28, 	took 10 seconds
+d=2, 	t=101, 	res=0.28, 	took 32 seconds
+d=3, 	t=11, 	res=0.29, 	took 308 seconds
+d=3, 	t=31, 	res=0.29, 	took 976 seconds
+d=3, 	t=101, 	res=0.29, 	took 3366 seconds
+ &0.29 &0.28 &0.28 &0.28 &0.28 &0.28 &0.29 &0.29 &0.29
+ 3 10 31 3 10 32 308 976 3366
+
+
+ADA
+
+
+
+ADA
+
+======================ADA=======================
+hepatitis:
+d=4, 	t=11, 	res=0.22, 	took 1129 seconds
+ &0.22
+ 1129
+
+
+ADA
+
+======================ADA=======================
+lymph:
+d=4, 	t=11, 	res=0.22, 	took 1072 seconds
+ &0.22
+ 1072
+======================ADA=======================
+primary-tumor:
+d=4, 	t=11, 	res=0.22, 	took 94 seconds
+ &0.22
+ 94
+======================ADA=======================
+soybean:
+d=4, 	t=11, 	res=0.05, 	took 713 seconds
+ &0.05
+ 713
+======================ADA=======================
+tic-tac-toe:
+d=4, 	t=11, 	res=0.03, 	took 119 seconds
+ &0.03
+ 119
+======================ADA=======================
+vote:
+d=4, 	t=11, 	res=0.06, 	took 452 seconds
+ &0.06
+ 452
