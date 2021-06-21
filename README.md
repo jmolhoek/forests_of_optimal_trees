@@ -17,4 +17,4 @@ This project is built with Maven. If you are familiar with Maven, the installati
 
 ### Structure of the Code-base
 To help understand the structure of all the Java classes, a UML class diagram is made. 
-![uml class diagram](https://github.com/jmolhoek/forests_of_optimal_trees/uml.jpg "uml class diagram")
+![uml class diagram](https://github.com/jmolhoek/forests_of_optimal_trees/blob/master/uml.jpg "uml class diagram")
