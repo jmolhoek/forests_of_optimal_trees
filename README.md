@@ -13,7 +13,10 @@ However, in scenarios where a small gain in classification accuracy can have imp
 ## Using the Code-base
 
 ### Set-up
-This project is built with Maven. If you are familiar with Maven, the installation procedure should be straightforward. If not, have a look at [this link](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html) first. Then, if you prefer to use Eclipse, [this link](https://stackoverflow.com/questions/2061094/importing-maven-project-into-eclipse) will be useful. If you prefer IntelliJ, [this](https://www.jetbrains.com/help/idea/maven-support.html#maven_import_project_start) will likely be helpful.
+This project is built with Maven. If you are familiar with Maven, the installation procedure should be straightforward. If not, the following links should be helpful:
+* [Maven in five minutes](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
+* [Importing a Maven project into Eclipse](https://stackoverflow.com/a/36242422/15168559)
+* [Importing a Maven project into IntelliJ](https://www.jetbrains.com/help/idea/maven-support.html#maven_import_project_start)
 
 ### Structure of the Code-base
 To help understand the structure of all the Java classes, a UML class diagram is made. 
