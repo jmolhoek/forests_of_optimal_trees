@@ -21,4 +21,4 @@ This project is built with Maven. If you are familiar with Maven, the installati
 ### Structure of the Code-base
 To help understand the structure of all the Java classes, a UML class diagram is made. 
 ![uml class diagram](https://github.com/jmolhoek/forests_of_optimal_trees/blob/master/uml.jpg "uml class diagram")
-The classes Main and Experiment are the "controlroom" of all the experiments that are done for the paper. From there, the datasets are loaded into the right format, different classifiers are built and analysed and results are displayed. 
+The code that loads the data into a usable format and the code that generates plots from the results are contained within their own packages: "Data" and "Plot" respectively. The classes Main and Experiment are the "controlroom" of all the experiments that are done for the paper. From there, the datasets are loaded into the right format (by calling the Data package), different classifiers are built and analysed and results are either printed, written to a file or displayed in a plot.
